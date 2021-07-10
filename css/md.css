@@ -131,7 +131,7 @@ header .nav-link:hover {
     padding: 2px 15px 8px 19px;
     border-radius: 40px;
     text-transform: uppercase;
-    margin-left: 95px;
+    margin-left: 5px;
     font-size: 15px;
 font-weight:600;
     text-align: center;
@@ -570,12 +570,57 @@ font-size: 19px;
     
     
     }
-
-    .section-2 .container .card .imgBx .imgb .imge {
-      height: 100px;
-      width: 100%;
-      margin-top: 10px;
+    span {
+      background: linear-gradient(to bottom,#09ffef,#008fd1);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      font-weight: bold;
+      font-size: 20px;
   }
+
+  .section-2 .container .card .imgBx .imgb .imge {
+    height: 100px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.section-2 .container .card .imgBx .imgb .ab {
+  background: linear-gradient(rgb(7, 131, 202),rgb(13, 218, 233));
+  text-decoration: none;
+  color: rgb(252, 253, 253);
+  padding: 4px 23px 10px 19px;
+  border-radius: 90px;
+  text-transform: uppercase;
+  margin-left: 85px;
+  font-size: 15px;
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+}
+.card .contentBx .content span {
+  font-size: 17px;
+ 
+}
+.card .contentBx .content p {
+  font-size: 12px;
+  font-weight: 300;
+  padding-top: 1px;
+}
+
+.card .contentBx .content a {
+  background: linear-gradient(rgb(7, 131, 202),rgb(13, 218, 233));
+  text-decoration: none;
+  color: rgb(252, 253, 253);
+  padding: 2px 5px 4px 2px;
+}
+
+
+.section-2 .container .card .imgBx .imgb .imge {
+  height: 100px;
+  width: 100%;
+  margin-top: 10px;
+}
   
     
 

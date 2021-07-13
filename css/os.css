@@ -236,7 +236,7 @@ footer input::placeholder {
 
 footer .input-group .input-group-text {
  background: linear-gradient(to right,rgb(236 116 46),rgb(239 120 18 / 93%));
-    background: -moz-linear-gradient(to bottom,#17f5f5,#0af015);
+    background: -moz-linear-gradient(right,rgb(236 116 46),rgb(239 120 18 / 93%));
   border: none;
 }
 
